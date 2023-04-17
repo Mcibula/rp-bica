@@ -19,7 +19,7 @@ SITE_TITLE = "Notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://lambent-lolly-fad73d.netlify.app/"
+SITE_URL = "https://rp-bica.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Europe/Bratislava"
 ZOLA_VERSION = "0.15.2"
